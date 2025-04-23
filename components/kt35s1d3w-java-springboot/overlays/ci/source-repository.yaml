@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kt35s1d3w-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/kt35s1d3w-java-springboot
